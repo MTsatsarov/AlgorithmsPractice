@@ -1,0 +1,15 @@
+D:\MyGithubRepos\AlgorithmsTests\Minimax\bin\Debug\net6.0\Minimax.exe
+D:\MyGithubRepos\AlgorithmsTests\Minimax\bin\Debug\net6.0\Minimax.deps.json
+D:\MyGithubRepos\AlgorithmsTests\Minimax\bin\Debug\net6.0\Minimax.runtimeconfig.json
+D:\MyGithubRepos\AlgorithmsTests\Minimax\bin\Debug\net6.0\Minimax.dll
+D:\MyGithubRepos\AlgorithmsTests\Minimax\bin\Debug\net6.0\Minimax.pdb
+D:\MyGithubRepos\AlgorithmsTests\Minimax\obj\Debug\net6.0\Minimax.csproj.AssemblyReference.cache
+D:\MyGithubRepos\AlgorithmsTests\Minimax\obj\Debug\net6.0\Minimax.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyGithubRepos\AlgorithmsTests\Minimax\obj\Debug\net6.0\Minimax.AssemblyInfoInputs.cache
+D:\MyGithubRepos\AlgorithmsTests\Minimax\obj\Debug\net6.0\Minimax.AssemblyInfo.cs
+D:\MyGithubRepos\AlgorithmsTests\Minimax\obj\Debug\net6.0\Minimax.csproj.CoreCompileInputs.cache
+D:\MyGithubRepos\AlgorithmsTests\Minimax\obj\Debug\net6.0\Minimax.dll
+D:\MyGithubRepos\AlgorithmsTests\Minimax\obj\Debug\net6.0\refint\Minimax.dll
+D:\MyGithubRepos\AlgorithmsTests\Minimax\obj\Debug\net6.0\Minimax.pdb
+D:\MyGithubRepos\AlgorithmsTests\Minimax\obj\Debug\net6.0\Minimax.genruntimeconfig.cache
+D:\MyGithubRepos\AlgorithmsTests\Minimax\obj\Debug\net6.0\ref\Minimax.dll
