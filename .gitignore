@@ -12,4 +12,5 @@ bin*
 *.userosscache
 *.sln.docstates
 
-/vs
+
+AlgorithmsTests/.vs
